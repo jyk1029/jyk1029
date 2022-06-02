@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurdl0525&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyk1029&show_icons=true&theme=dark)
 
 </div>
 

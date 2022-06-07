@@ -1,8 +1,10 @@
+<div align="center">
+ 
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&text=jyk1029🎲%20&fontSize=90)<br><br>
 
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyk1029&show_icons=true&theme=aura)
+  <p align="center">
+ <a href="https://github.com/jikwan0327/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jikwan0327&bg_color=30,9986EE,F06E6E&title_color=fff&text_color=fff"/></a></p>
 
 </div>
 

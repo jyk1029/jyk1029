@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient&customColorList=6&height=300&section=header&text=jyk1029🎲%20&fontSize=90)<br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient&customColorList=6&height=300&section=header&text=Juyeong🎲%20&fontSize=90)<br><br>
 
   <p align="center">
  <a href="https://github.com/jikwan0327/github-readme-stats">

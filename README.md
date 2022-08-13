@@ -1,10 +1,12 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient&customColorList=6&height=300&section=header&text=JuyeongKim%20&fontSize=90)<br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient&customColorList=6&height=300&section=header&text=JuyeongKim%20&fontSize=90)<br></br>
 
   <p align="center">
  <a href="https://github.com/jyk1029/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jyk1029&bg_color=30,0083FF,7B00FF&title_color=fff&text_color=fff"/></a></p>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyk1029&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -31,7 +33,6 @@
 
 <h1 align="center"><b>🗃 About Me 🗃</b></h1>
 <p align="center">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://jooyk.notion.site/It-s-Mine-c0395f0cc831499987a80081bd1fff5f"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jyk1029=anuraghazra&layout=compact)] (https://github.com/anuraghazra/github-readme-stats)
 </P>

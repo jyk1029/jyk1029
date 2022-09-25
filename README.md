@@ -34,5 +34,7 @@
 <h1 align="center"><b>🗃 About Me 🗃</b></h1>
 <p align="center">
 <a href="https://jooyk.notion.site/It-s-Mine-c0395f0cc831499987a80081bd1fff5f"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://velog.io/@jyk1029"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+</p>
 
 </P>

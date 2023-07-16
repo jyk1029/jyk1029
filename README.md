@@ -2,9 +2,10 @@
 - I'm in Daedeok Software Meister High School. 🏫
 - I'm studying Back-End and DevOps! 📚
 
-### I'm studying with the mindset that I can do anything. 🔥
 
-## Contect Me 💬
+## I'm studying with the mindset that I can do anything. 🔥
+
+# Contect Me 💬
 <p>
     <a href="jyk102999@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
